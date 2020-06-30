@@ -1,0 +1,19 @@
+{
+  "name": "fbtracker",
+  "version": "1.0.0",
+  "description": "Track last seen of person in social media like fb ans insta.",
+  "main": "fbtracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "gtts": "^0.2.1",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.2.2",
+    "qs": "^6.9.4"
+  }
+}
